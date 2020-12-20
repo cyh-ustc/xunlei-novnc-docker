@@ -1,6 +1,6 @@
 # xunlei-novnc-docker
 
-基于deepin-wine和ubuntu和novnc的docker
+基于deepin-wine和ubuntu和novnc的迅雷docker
 
 在ubuntu和其他linux机器特别是没有图形界面的server上要安装使用deepin-wine软件比较麻烦，直接装deepinwine比较容易乱(因为用32位软件)，在远程环境使用ssh x11又比较卡；而使用vnc和novnc比较好
 
